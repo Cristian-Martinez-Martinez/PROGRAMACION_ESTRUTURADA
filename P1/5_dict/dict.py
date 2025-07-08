@@ -1,0 +1,2 @@
+"""Es un tipo de de datos que se utilizan para al macenar datos pero en lugar de tener como las listas indices numericos tiene alfanumerico es decir es algo parecido como los objetos
+tambien se conoce """
